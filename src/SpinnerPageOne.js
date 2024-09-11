@@ -6,7 +6,6 @@ import Three from './Three.jpg'
 import Four from './Four.jpg'
 import Five from './Five.jpg'
 import Six from './Six.jpg'
-// import dancing from './dance.gif'
 import birthday from './bubble.jpg'
 
 import WheelComponent from 'react-wheel-of-prizes'
