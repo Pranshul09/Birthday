@@ -13,7 +13,6 @@ import birthday from './bubble.jpg'
 const SpinnerGameWithImages = () => {
     // Predefined results for each spin
     const predefinedResults = ['Cow soft toy', 'Dust Pan', 'Many Poko Pants'];
-    // State to manage spins and results
     let spin = 2
     let [currentSpin, setCurrentSpin] = useState(2);
     const [results, setResults] = useState([]);
